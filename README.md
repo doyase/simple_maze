@@ -1,7 +1,7 @@
 # simple_maze
 
 # 🏁 Simple Maze Game (C言語)
-[![C言語版 迷路ゲームのデモ](https://img.youtube.com/vi/TPTQM6ZFsOs/0.jpg)](https://youtu.be/TPTQM6ZFsOs)
+[![C言語版 迷路ゲームのデモ](https://img.youtube.com/vi/omOzg1F3h24/0.jpg)](https://youtu.be/omOzg1F3h24)
 
 ## 🔹 概要
 このプロジェクトは、選択した難易度に応じて異なるサイズの迷路を自動生成し、制限時間内にゴールを目指すシンプルな迷路ゲームです。
